@@ -2,7 +2,7 @@
 title: Wiki for CASSI
 description: Wiki established by yxr.
 published: true
-date: 2023-11-20T03:30:16.609Z
+date: 2023-11-20T03:42:23.566Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T02:13:45.217Z
@@ -38,6 +38,8 @@ huge.yinxiaorui.top -> huge525:huge123
 纳税人识别号：12100000400011227Y
 地址、电话：北京市海淀区学院路37号 010-82317873
 开户行及账号：中国工商银行北京东升路支行 0200006209026400229
+
+## 实验室常识2
 
 ---
 wiki链接：wiki.yinxiaorui.top
