@@ -2,7 +2,7 @@
 title: wiki for CASSI
 description: Wiki established by yxr.
 published: true
-date: 2023-11-20T03:16:39.242Z
+date: 2023-11-20T03:17:35.557Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T02:13:45.217Z
@@ -25,7 +25,7 @@ B809： 82338409
 3. 实验室工作站
 gpu.yinxiaorui.top -> b809:809525
 mini.yinxiaorui.top -> b525mini:mini123
-huge.yinxiaorui.top -> b525huge:huge123
+huge.yinxiaorui.top -> huge525:huge123
 
 4. 学校正版软件：
 登录 https://s.buaa.edu.cn 查询
