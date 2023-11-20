@@ -2,7 +2,7 @@
 title: wiki for CASSI
 description: Wiki established by yxr.
 published: true
-date: 2023-11-20T03:16:17.628Z
+date: 2023-11-20T03:16:39.242Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T02:13:45.217Z
@@ -27,13 +27,13 @@ gpu.yinxiaorui.top -> b809:809525
 mini.yinxiaorui.top -> b525mini:mini123
 huge.yinxiaorui.top -> b525huge:huge123
 
-3. 学校正版软件：
+4. 学校正版软件：
 登录 https://s.buaa.edu.cn 查询
 
-4. 校章业务：
+5. 校章业务：
 周二和周四下午校章在沙河校区，周三下午为党员学习日活动，不办理业务。
 
-5. 税务信息：
+6. 税务信息：
 名称：北京航空航天大学
 纳税人识别号：12100000400011227Y
 地址、电话：北京市海淀区学院路37号 010-82317873
