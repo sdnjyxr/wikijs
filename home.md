@@ -1,8 +1,8 @@
 ---
-title: wiki for CASSI
+title: Wiki for CASSI
 description: Wiki established by yxr.
 published: true
-date: 2023-11-20T03:17:35.557Z
+date: 2023-11-20T03:18:30.376Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T02:13:45.217Z
@@ -40,6 +40,7 @@ huge.yinxiaorui.top -> huge525:huge123
 开户行及账号：中国工商银行北京东升路支行 0200006209026400229
 
 ---
-本wiki运行于b525mini工作站，仅限实验室内网访问.
+wiki链接：wiki.yinxiaorui.top
+本wiki运行于b525mini工作站，仅限实验室内网访问。
 
 made by yxr.
