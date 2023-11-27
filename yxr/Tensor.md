@@ -2,7 +2,7 @@
 title: Tensor
 description: 
 published: true
-date: 2023-11-27T11:08:49.640Z
+date: 2023-11-27T11:09:23.587Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-27T10:35:46.011Z
