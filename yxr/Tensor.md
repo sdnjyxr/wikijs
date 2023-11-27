@@ -2,7 +2,7 @@
 title: Tensor
 description: 
 published: true
-date: 2023-11-27T11:54:03.616Z
+date: 2023-11-27T12:49:24.803Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-27T10:35:46.011Z
@@ -84,7 +84,7 @@ A \otimes B=\left[\begin{matrix}
 a_{1,1} B & \ldots & a_{1, n} B \\
 \vdots & \ddots & \vdots \\
 a_{m, 1} B & \ldots & a_{m, n} B
-\end{matrix}\right]_{m p \times n q} = \left[ \mathbf{a}_{1} \otimes \mathbf{b}_{1} \quad \mathbf{a}_{1} \otimes \mathbf{b}_{2} \quad \mathbf{a}_{1} \otimes \mathbf{b}_{3} \quad \mathbf{a}_{m} \otimes \mathbf{b}_{q-1} \quad \mathbf{a}_{m} \otimes \mathbf{b}_{q}  \right]
+\end{matrix}\right]_{m p \times n q} = \left[ \mathbf{a}_{1} \otimes \mathbf{b}_{1} \quad \mathbf{a}_{1} \otimes \mathbf{b}_{2} \quad \mathbf{a}_{1} \otimes \mathbf{b}_{3}\quad \cdots \quad \mathbf{a}_{n} \otimes \mathbf{b}_{p-1} \quad \mathbf{a}_{n} \otimes \mathbf{b}_{p}  \right]
 $$
 
 #### Kronecker积性质
@@ -179,6 +179,14 @@ $$
 1. $(\mathbf{A} \bullet \mathbf{B})(\mathbf{C} * \mathbf{D})=(\mathbf{A C}) \odot(\mathbf{B D})$, $\odot$为Hadamard积。
 
 2.$(\mathbf{A} \odot \mathbf{B}) \bullet(\mathbf{C} \odot \mathbf{D})=(\mathbf{A} \bullet \mathbf{C}) \odot(\mathbf{B} \bullet \mathbf{D})$
+
+#### column-wise Khatri-Rao积
+对$A \in \mathbb{R}^{I \times R}$ 和 $B \in \mathbb{R}^{K \times R}$，他们的Khatri-Rao积为一个$IK \times R$矩阵：
+
+$$
+A \times B = \left[ \mathbf{a}_{1} \otimes \mathbf{b}_{1} \quad \mathbf{a}_{2} \otimes \mathbf{b}_{2} \quad \cdots \quad \mathbf{a}_{R} \otimes \mathbf{b}_{R}  \right]
+$$
+
 
 ### 张量矩阵积
 $$
