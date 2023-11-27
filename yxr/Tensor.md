@@ -2,7 +2,7 @@
 title: Tensor
 description: 
 published: true
-date: 2023-11-27T11:00:05.963Z
+date: 2023-11-27T11:04:20.102Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-27T10:35:46.011Z
@@ -69,12 +69,20 @@ $$
 
 $$
 A=\left[\begin{matrix}
-a_{1,1} & \ldots & a_{1, m} \\
-\vdots & \ddots & \vdots \\
-a_{n, 1} & \ldots & a_{n, m}
-\end{matrix}\right]_{n \times m} \quad B=\left[\begin{matrix}
+a_{1,1} & \ldots & a_{1, n} \\
+\cdots & \ddots & \cdots \\
+a_{m, 1} & \ldots & a_{m, n}
+\end{matrix}\right]_{m \times n} B=\left[\begin{matrix}
 b_{1,1} & \ldots & b_{1, q} \\
-\vdots & \ddots & \vdots \\
+\cdots & \ddots & \cdots \\
 b_{p, 1} & \ldots & b_{p, q}
 \end{matrix}\right]_{p \times q}
+$$
+
+$$
+A \otimes B=\left[\begin{matrix}
+a_{1,1} B & \ldots & a_{1, n} B \\
+\cdots & \ddots & \cdots \\
+a_{n, 1} B & \ldots & a_{n, m} B
+\end{matrix}\right]_{n p \times m q}
 $$
