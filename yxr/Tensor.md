@@ -2,7 +2,7 @@
 title: Tensor
 description: 
 published: true
-date: 2023-11-27T10:49:48.091Z
+date: 2023-11-27T11:00:05.963Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-27T10:35:46.011Z
@@ -58,6 +58,23 @@ $$
 \mathbf{X}_{(3)}=\left[\begin{matrix}
 1 & 2 & 3 & 4 & 5 & \cdots & 9 & 10 & 11 & 12 \\
 13 & 14 & 15 & 16 & 17 & \cdots & 21 & 22 & 23 & 24
-\end{matrix}\right]
+\end{matrix}\right].
 \end{gathered}
+$$
+
+## 张量积
+### Kronecker积
+
+矩阵的Kronecker积是一种矩阵运算，也被称为矩阵的张量积。给定两个矩阵A和B，它们的Kronecker积$A \otimes B$是一个大矩阵，若$A \in \mathbb{R}^{m\times n}$和$B \in \mathbb{R}^{p\times q}$,则A与B的Kronecker积是一个大小为$mp \times nq$的矩阵，其表述为：
+
+$$
+A=\left[\begin{matrix}
+a_{1,1} & \ldots & a_{1, m} \\
+\vdots & \ddots & \vdots \\
+a_{n, 1} & \ldots & a_{n, m}
+\end{matrix}\right]_{n \times m} \quad B=\left[\begin{matrix}
+b_{1,1} & \ldots & b_{1, q} \\
+\vdots & \ddots & \vdots \\
+b_{p, 1} & \ldots & b_{p, q}
+\end{matrix}\right]_{p \times q}
 $$
