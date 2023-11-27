@@ -2,7 +2,7 @@
 title: Tensor
 description: 
 published: true
-date: 2023-11-27T10:42:43.985Z
+date: 2023-11-27T10:48:39.253Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-27T10:35:46.011Z
@@ -22,5 +22,20 @@ $$
 \left< \mathcal{X}, \mathcal{Y} \right> = \sum \limits_{i_{1}=1}^{I_{1}}\sum \limits_{i_{2}=1}^{I_{2}} \dots \sum \limits_{i_{N}=1}^{I_{N}} x_{i_{1}i_{2} \dots i_{N}} y_{i_{1}i_{2} \dots i_{N}}
 $$
 
-## 矩阵化(模N展开)
+## 矩阵化(模n展开)
 
+<img src='/面上/模n展开.png'>
+
+张量$\mathcal{X} \in \mathbb{R}^{3\times4\times2}$:
+
+$$
+\mathbf{X}_{1}=\left[\begin{matrix}
+1 & 4 & 7 & 10 \\
+2 & 5 & 8 & 11 \\
+3 & 6 & 9 & 12
+\end{matrix}\right], \mathbf{X}_{2}=\left[\begin{matrix}
+13 & 16 & 19 & 22 \\
+14 & 17 & 20 & 23 \\
+15 & 18 & 21 & 24
+\end{matrix}\right]
+$$
