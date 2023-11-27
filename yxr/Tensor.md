@@ -2,7 +2,7 @@
 title: Tensor
 description: 
 published: true
-date: 2023-11-27T11:04:38.065Z
+date: 2023-11-27T11:05:50.583Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-27T10:35:46.011Z
@@ -82,7 +82,7 @@ $$
 $$
 A \otimes B=\left[\begin{matrix}
 a_{1,1} B & \ldots & a_{1, n} B \\
-\cdots & \ddots & \cdots \\
+\cdots & \ddots & \vdots \\
 a_{m, 1} B & \ldots & a_{m, n} B
 \end{matrix}\right]_{m p \times n q}
 $$
