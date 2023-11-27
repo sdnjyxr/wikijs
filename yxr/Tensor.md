@@ -2,7 +2,7 @@
 title: Tensor
 description: 
 published: true
-date: 2023-11-27T11:05:50.583Z
+date: 2023-11-27T11:06:28.575Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-27T10:35:46.011Z
@@ -26,7 +26,7 @@ $$
 
 <img src='/面上/模n展开.png'>
 
-张量$\mathcal{X} \in \mathbb{R}^{3\times4\times2}$:
+张量$\mathcal{X} \in \mathbb{R}^{3\times 4\times 2}$:
 
 $$
 \mathbf{X}_{1}=\left[\begin{matrix}
