@@ -2,7 +2,7 @@
 title: Tensor
 description: 
 published: true
-date: 2023-11-27T11:43:09.150Z
+date: 2023-11-27T11:46:06.346Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-27T10:35:46.011Z
@@ -176,3 +176,13 @@ $$
 1. $(\mathbf{A} \bullet \mathbf{B})(\mathbf{C} * \mathbf{D})=(\mathbf{A C}) \odot(\mathbf{B D})$, $\odot$为Hadamard积。
 
 2.$(\mathbf{A} \odot \mathbf{B}) \bullet(\mathbf{C} \odot \mathbf{D})=(\mathbf{A} \bullet \mathbf{C}) \odot(\mathbf{B} \bullet \mathbf{D})$
+
+### 张量矩阵积
+$$
+\begin{gathered}
+\left(\boldsymbol{X} \times_n \mathbf{U}\right)_{i_1 \cdots i_{n-1} j i_{n+1} \cdots i_N}=\sum_{i_n=1}^{I_n} x_{i_1 i_2 \cdots i_N} u_{j i_n} \\
+\boldsymbol{y}=\boldsymbol{X} \times{ }_n \mathbf{U} \Leftrightarrow \mathbf{Y}_{(n)}=\mathbf{U} \mathbf{X}_{(n)}
+\end{gathered}
+$$
+
+## 张量分解
