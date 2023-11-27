@@ -2,7 +2,7 @@
 title: Tensor
 description: 
 published: true
-date: 2023-11-27T10:42:13.097Z
+date: 2023-11-27T10:42:43.985Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-27T10:35:46.011Z
@@ -21,3 +21,6 @@ dateCreated: 2023-11-27T10:35:46.011Z
 $$
 \left< \mathcal{X}, \mathcal{Y} \right> = \sum \limits_{i_{1}=1}^{I_{1}}\sum \limits_{i_{2}=1}^{I_{2}} \dots \sum \limits_{i_{N}=1}^{I_{N}} x_{i_{1}i_{2} \dots i_{N}} y_{i_{1}i_{2} \dots i_{N}}
 $$
+
+## 矩阵化(模N展开)
+
