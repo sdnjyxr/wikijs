@@ -2,7 +2,7 @@
 title: Tensor
 description: 
 published: true
-date: 2023-11-27T11:46:06.346Z
+date: 2023-11-27T11:54:03.616Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-27T10:35:46.011Z
@@ -84,15 +84,18 @@ A \otimes B=\left[\begin{matrix}
 a_{1,1} B & \ldots & a_{1, n} B \\
 \vdots & \ddots & \vdots \\
 a_{m, 1} B & \ldots & a_{m, n} B
-\end{matrix}\right]_{m p \times n q}
+\end{matrix}\right]_{m p \times n q} = \left[ \mathbf{a}_{1} \otimes \mathbf{b}_{1} \quad \mathbf{a}_{1} \otimes \mathbf{b}_{2} \quad \mathbf{a}_{1} \otimes \mathbf{b}_{3} \quad \mathbf{a}_{m} \otimes \mathbf{b}_{q-1} \quad \mathbf{a}_{m} \otimes \mathbf{b}_{q}  \right]
 $$
 
 #### Kronecker积性质
 1. Kronecker积满足线性叠加
 给定$\alpha \in \mathbb{R}$：
+
 $$
-A \otimes(\alpha B)=\alpha(A \otimes B) \\
-(\alpha A) \otimes B=\alpha(A \otimes B)
+\begin{gathered}
+A \otimes (\alpha B)=\alpha (A \otimes B) \\
+(\alpha A) \otimes B=\alpha (A \otimes B)
+\end{gathered}
 $$
 
 2. Kronecker积满足加法的分配律: 
