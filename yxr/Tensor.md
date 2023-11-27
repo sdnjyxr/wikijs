@@ -2,7 +2,7 @@
 title: Tensor
 description: 
 published: true
-date: 2023-11-27T10:48:39.253Z
+date: 2023-11-27T10:49:48.091Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-27T10:35:46.011Z
@@ -38,4 +38,26 @@ $$
 14 & 17 & 20 & 23 \\
 15 & 18 & 21 & 24
 \end{matrix}\right]
+$$
+
+其展开为：
+
+$$
+\begin{gathered}
+\mathbf{X}_{(1)}=\left[\begin{matrix}
+1 & 4 & 7 & 10 & 13 & 16 & 19 & 22 \\
+2 & 5 & 8 & 11 & 14 & 17 & 20 & 23 \\
+3 & 6 & 9 & 12 & 15 & 18 & 21 & 24
+\end{matrix}\right], \\
+\mathbf{X}_{(2)}=\left[\begin{matrix}
+1 & 2 & 3 & 13 & 14 & 15 \\
+4 & 5 & 6 & 16 & 17 & 18 \\
+7 & 8 & 9 & 19 & 20 & 21 \\
+10 & 11 & 12 & 22 & 23 & 24
+\end{matrix}\right], \\
+\mathbf{X}_{(3)}=\left[\begin{matrix}
+1 & 2 & 3 & 4 & 5 & \cdots & 9 & 10 & 11 & 12 \\
+13 & 14 & 15 & 16 & 17 & \cdots & 21 & 22 & 23 & 24
+\end{matrix}\right]
+\end{gathered}
 $$
