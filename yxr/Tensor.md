@@ -2,7 +2,7 @@
 title: Tensor
 description: 
 published: true
-date: 2023-11-27T11:09:23.587Z
+date: 2023-11-27T11:27:04.449Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-27T10:35:46.011Z
@@ -70,11 +70,11 @@ $$
 $$
 A=\left[\begin{matrix}
 a_{1,1} & \ldots & a_{1, n} \\
-\cdots & \ddots & \cdots \\
+\vdots & \ddots & \vdots \\
 a_{m, 1} & \ldots & a_{m, n}
 \end{matrix}\right]_{m \times n} B=\left[\begin{matrix}
 b_{1,1} & \ldots & b_{1, q} \\
-\cdots & \ddots & \cdots \\
+\vdots & \ddots & \vdots \\
 b_{p, 1} & \ldots & b_{p, q}
 \end{matrix}\right]_{p \times q}
 $$
@@ -82,7 +82,7 @@ $$
 $$
 A \otimes B=\left[\begin{matrix}
 a_{1,1} B & \ldots & a_{1, n} B \\
-\cdots & \ddots & \vdots \\
+\vdots & \ddots & \vdots \\
 a_{m, 1} B & \ldots & a_{m, n} B
 \end{matrix}\right]_{m p \times n q}
 $$
