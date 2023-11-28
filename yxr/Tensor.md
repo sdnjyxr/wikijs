@@ -2,7 +2,7 @@
 title: Tensor
 description: 
 published: true
-date: 2023-11-27T12:49:24.803Z
+date: 2023-11-28T11:44:00.543Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-27T10:35:46.011Z
@@ -63,6 +63,12 @@ $$
 $$
 
 ## 张量积
+### n模张量积
+$$
+\mathcal{Y} = \mathcal{X} \times_{n} \mathbf{U} \leftrightarrow \mathbf{Y}_{(n)} = \mathbf{U} \mathbf{X}_{(n)}
+$$
+
+
 ### Kronecker积
 
 矩阵的Kronecker积是一种矩阵运算，也被称为矩阵的张量积。给定两个矩阵A和B，它们的Kronecker积$A \otimes B$是一个大矩阵，若$A \in \mathbb{R}^{m\times n}$和$B \in \mathbb{R}^{p\times q}$,则A与B的Kronecker积是一个大小为$mp \times nq$的矩阵，其表述为：
