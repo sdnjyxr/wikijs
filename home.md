@@ -1,8 +1,8 @@
 ---
-title: Wiki for CASSI
+title: Wiki for B525
 description: Wiki established by yxr.
 published: true
-date: 2023-11-27T11:22:09.917Z
+date: 2024-01-05T02:10:39.093Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T02:13:45.217Z
