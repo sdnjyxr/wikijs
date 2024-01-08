@@ -2,7 +2,7 @@
 title: 240105实验
 description: 
 published: true
-date: 2024-01-08T13:23:49.310Z
+date: 2024-01-08T13:31:21.626Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-05T07:29:52.774Z
@@ -55,7 +55,7 @@ dateCreated: 2024-01-05T07:29:52.774Z
 
 ### 3.1 边缘通道棋盘格图像
 
-<center><img src='/240105/2-1.jpg' width=50%></center>
+<center><img src='/240105/2-1.jpg' width=40%></center>
 
 > 可见边缘通道的像差严重到无法识别角点了，这个问题有可能是目标距离太近了：目标近，前置大透镜的入射光线角度就大，大透镜因为它口径大，引入的像差就很大，入射光线角度再大，像差就更难说了。
 {.is-warning}
@@ -73,15 +73,13 @@ dateCreated: 2024-01-05T07:29:52.774Z
 <br>
 
 <center>
-  <img src='/240105/2-3.jpg' width=40%> <img src='/240105/2-4.jpg' width=40%>
+  <img src='/240105/2-3.jpg' width=25%> <img src='/240105/2-4.jpg' width=25%>
   <br>
-  <div class='tz'>（左）10倍密集的噪声 （右）15倍密集的噪声</div>
+  <img src='/240105/2-5.jpg' width=25%> <img src='/240105/2-6.jpg' width=25%>
+  <br>
+  <div class='tz'>（上左）10倍密集的噪声 （上右）15倍密集的噪声（下左）黑屏 （下右）白屏</div>
 </center>
 <br>
 
-<center>
-  <img src='/240105/2-5.jpg' width=40%> <img src='/240105/2-6.jpg' width=40%>
-  <br>
-  <div class='tz'>（左）黑屏 （右）白屏</div>
-</center>
-<br>
+> 下次实验要记录曝光时间、增益、光阑
+{.is-danger}
