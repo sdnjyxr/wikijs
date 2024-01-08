@@ -2,7 +2,7 @@
 title: 240105实验
 description: 
 published: true
-date: 2024-01-08T13:01:01.169Z
+date: 2024-01-08T13:01:51.970Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-05T07:29:52.774Z
@@ -45,10 +45,9 @@ dateCreated: 2024-01-05T07:29:52.774Z
 <center>
 <img src='/240105/1-2.jpg' width=30%><img src='/240105/1-4.jpg' width=30%><img src='/240105/1-3.jpg' width=30%>
   <br>
-  <tz> （左）上通道成像结果（中）中通道成像结果（右）下通道成像结果 </tz>
+	<div class='tz'>（左）上通道成像结果（中）中通道成像结果（右）下通道成像结果</div>
 </center>
-
-
+<br>
 
 > 上下通道成像模糊不一致，中通道遮光不干净。
 {.is-warning}
