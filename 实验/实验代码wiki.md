@@ -2,7 +2,7 @@
 title: 240105实验
 description: 
 published: true
-date: 2024-01-08T13:18:04.553Z
+date: 2024-01-08T13:18:36.111Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-05T07:29:52.774Z
@@ -18,7 +18,6 @@ dateCreated: 2024-01-05T07:29:52.774Z
 
 > 在chessboard.py程序中设置
 {.is-info}
-
 
 | 变量名 | 变量含义 | 变量名 | 变量含义 |
 |:-:|:-:|:-:|:-:|
