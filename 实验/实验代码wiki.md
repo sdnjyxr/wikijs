@@ -2,7 +2,7 @@
 title: 240105实验
 description: 
 published: true
-date: 2024-01-08T11:16:04.851Z
+date: 2024-01-08T11:17:09.472Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-05T07:29:52.774Z
@@ -26,5 +26,5 @@ dateCreated: 2024-01-05T07:29:52.774Z
 <center>
     <img src='/240105/1-1.jpg' width=50%>
     <br>
-	  <div style=tz>上中下三个通道的成像结果</div>
+	  <tz>上中下三个通道的成像结果</tz>
 </center>
