@@ -2,7 +2,7 @@
 title: 240105实验
 description: 
 published: true
-date: 2024-01-08T12:37:01.241Z
+date: 2024-01-08T12:57:27.780Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-05T07:29:52.774Z
@@ -68,17 +68,20 @@ dateCreated: 2024-01-05T07:29:52.774Z
 <center>
   <img src='/240105/2-2.jpg' width=40%>
   <br>
-  <tz>中间通道的棋盘格图像</tz>
+  <div class='tz'>中间通道的棋盘格图像</div>
 </center>
+<br>
 
 <center>
   <img src='/240105/2-3.jpg' width=40%> <img src='/240105/2-4.jpg' width=40%>
   <br>
-  <tz>（左）10倍密集的噪声 （右）15倍密集的噪声</tz>
+  <div class='tz'>（左）10倍密集的噪声 （右）15倍密集的噪声</div>
 </center>
+<br>
 
 <center>
   <img src='/240105/2-5.jpg' width=40%> <img src='/240105/2-6.jpg' width=40%>
   <br>
-  <tz>（左）黑屏 （右）白屏</tz>
+  <div class='tz'>（左）黑屏 （右）白屏</div>
 </center>
+<br>
