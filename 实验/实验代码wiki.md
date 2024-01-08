@@ -2,7 +2,7 @@
 title: 240105实验
 description: 
 published: true
-date: 2024-01-08T13:18:36.111Z
+date: 2024-01-08T13:23:49.310Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-05T07:29:52.774Z
@@ -29,7 +29,7 @@ dateCreated: 2024-01-05T07:29:52.774Z
 ### 2.1 上中下三个通道的成像结果
 
 <center>
-<img src='/240105/1-1.jpg' width=50%>
+<img src='/240105/1-1.jpg' width=40%>
 </center>
   
 > 不能完美合像，原因如下：
@@ -42,7 +42,7 @@ dateCreated: 2024-01-05T07:29:52.774Z
 ### 2.2 单通道成像结果
 
 <center>
-<img src='/240105/1-2.jpg' width=30%><img src='/240105/1-4.jpg' width=30%><img src='/240105/1-3.jpg' width=30%>
+<img src='/240105/1-2.jpg' width=30%> <img src='/240105/1-4.jpg' width=30%> <img src='/240105/1-3.jpg' width=30%>
   <br>
 	<div class='tz'>（左）上通道成像结果（中）中通道成像结果（右）下通道成像结果</div>
 </center>
