@@ -2,13 +2,17 @@
 title: 240105实验
 description: 
 published: true
-date: 2024-01-08T12:28:37.033Z
+date: 2024-01-08T12:36:48.574Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-05T07:29:52.774Z
 ---
 
 # 240105实验
+
+## 总览
+
+<center><img src='/240105/总览.jpg' width=60%>   <img src='/240105/目标位置.jpg' width=16.5%></center>
 
 ## 1.棋盘格显示
 
