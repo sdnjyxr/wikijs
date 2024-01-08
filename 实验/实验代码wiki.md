@@ -2,7 +2,7 @@
 title: 240105实验
 description: 
 published: true
-date: 2024-01-08T11:55:10.551Z
+date: 2024-01-08T12:28:37.033Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-05T07:29:52.774Z
@@ -51,4 +51,30 @@ dateCreated: 2024-01-05T07:29:52.774Z
 
 ### 3.1 边缘通道棋盘格图像
 
-<img src='/240105/2-1.jpg' width=50%>
+<center><img src='/240105/2-1.jpg' width=50%></center>
+
+> 可见边缘通道的像差严重到无法识别角点了，这个问题有可能是目标距离太近了：目标近，前置大透镜的入射光线角度就大，大透镜因为它口径大，引入的像差就很大，入射光线角度再大，像差就更难说了。
+{.is-warning}
+
+> 再实验时，目标还是按照仿真的条件，放到1500mm的位置。
+{.is-info}
+
+### 3.2 中间通道PSF定标尝试
+
+<center>
+  <img src='/240105/2-2.jpg' width=40%>
+  <br>
+  <tz>中间通道的棋盘格图像</tz>
+</center>
+
+<center>
+  <img src='/240105/2-3.jpg' width=40%> <img src='/240105/2-4.jpg' width=40%>
+  <br>
+  <tz>（左）10倍密集的噪声 （右）15倍密集的噪声</tz>
+</center>
+
+<center>
+  <img src='/240105/2-5.jpg' width=40%> <img src='/240105/2-6.jpg' width=40%>
+  <br>
+  <tz>（左）黑屏 （右）白屏</tz>
+</center>
