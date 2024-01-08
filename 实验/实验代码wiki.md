@@ -2,7 +2,7 @@
 title: 240105实验
 description: 
 published: true
-date: 2024-01-08T10:37:12.384Z
+date: 2024-01-08T10:58:54.978Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-05T07:29:52.774Z
@@ -23,7 +23,11 @@ dateCreated: 2024-01-05T07:29:52.774Z
 
 ## 2.成像实验
 
-<div width=50%>
-<img src='/240105/1-1.jpg' width=50%>
-<p align="left">忽如一夜春风来，千树万树梨花开。</p>
-</div>
+<left>
+    <img src='/240105/1-1.jpg' width=50%>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">上中下三个通道的成像结果</div>
+</left>
