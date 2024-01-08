@@ -2,7 +2,7 @@
 title: 240105实验
 description: 
 published: true
-date: 2024-01-08T09:28:34.819Z
+date: 2024-01-08T09:53:27.849Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-05T07:29:52.774Z
@@ -12,7 +12,16 @@ dateCreated: 2024-01-05T07:29:52.774Z
 
 ## 1.棋盘格显示
 
-chessboard.py
+> 在chessboard.py程序中设置
+{.is-info}
 
 
-dpi: 实验电脑显示屏幕DPI。
+| 变量名 | 变量含义 | 变量名 | 变量含义 |
+|:-:|:-:|:-:|:-:|
+|**dpi**|显示器DPI，匹配像素大小|**chess_size_cm**|棋盘格大小|
+|**square_size_cm**|伯努利分布格大小|**display_mode**|（1）棋盘格<br>（2）伯努利分布<br>（3）黑屏<br>（4）白屏|
+
+## 2.成像实验
+
+
+
