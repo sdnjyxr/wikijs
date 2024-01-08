@@ -2,7 +2,7 @@
 title: 240105实验
 description: 
 published: true
-date: 2024-01-08T13:31:21.626Z
+date: 2024-01-08T13:33:29.400Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-05T07:29:52.774Z
@@ -23,6 +23,10 @@ dateCreated: 2024-01-05T07:29:52.774Z
 |:-:|:-:|:-:|:-:|
 |**dpi**|显示器DPI，匹配像素大小|**chess_size_cm**|棋盘格大小|
 |**square_size_cm**|伯努利分布格大小|**display_mode**|（1）棋盘格<br>（2）伯努利分布<br>（3）黑屏<br>（4）白屏|
+
+> 补充按下空格显示棋盘格标号的功能。
+{.is-danger}
+
 
 ## 2.成像实验
 
